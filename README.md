@@ -1,1 +1,1 @@
-Esta es una prueba de como crear un repositorio y clonarlo desde git hub a mi repositorio.
+vamos a mandar sincronizar un repositorio clonado a mi compu a git hub
